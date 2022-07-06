@@ -1,0 +1,1 @@
+web: gunicorn SHIKAMAM_BIRTHDAY.wsgi --log-file -
